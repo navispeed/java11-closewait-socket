@@ -1,0 +1,33 @@
+{
+  "source": "mockoon:1.7.0",
+  "data": [
+    {
+      "type": "route",
+      "item": {
+        "uuid": "",
+        "documentation": "",
+        "method": "get",
+        "endpoint": "nocontent",
+        "responses": [
+          {
+            "uuid": "",
+            "body": "",
+            "latency": 0,
+            "statusCode": "204",
+            "label": "",
+            "headers": [
+              {
+                "key": "",
+                "value": ""
+              }
+            ],
+            "filePath": "",
+            "sendFileAsBody": false,
+            "rules": []
+          }
+        ],
+        "enabled": true
+      }
+    }
+  ]
+}
